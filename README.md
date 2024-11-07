@@ -1,1 +1,1 @@
-☕ Hej, I'm probably drinking coffee while scripting.
+☕ Probably drinking coffee while scripting
